@@ -28,6 +28,16 @@ body {
   background: black;
 }
 
+.title-sub {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 h1 {
   font-size: 8vh;
+}
+
+h3 {
+  font-size: 3vh;
 }
