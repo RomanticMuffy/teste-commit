@@ -27,3 +27,7 @@ body {
   color: white;
   background: black;
 }
+
+h1 {
+  font-size: 8vh;
+}
